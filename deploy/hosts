@@ -1,0 +1,5 @@
+[prod]
+52.255.205.56 ansible_user=ilyasayapin
+
+[dev]
+52.255.205.56 ansible_user=ilyasayapin

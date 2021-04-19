@@ -1,0 +1,6 @@
+export const CLOSE_NOTIF = 'CLOSE_NOTIF';
+export const SHOW_NOTIF = 'SHOW_NOTIF';
+
+export const GET_NOTIFS = 'GET_NOTIFS';
+export const GET_NOTIFS_SUCCESS = 'GET_NOTIFS_SUCCESS';
+export const GET_NOTIFS_FAILURE = 'GET_NOTIFS_FAILURE';
